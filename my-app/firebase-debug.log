@@ -1,0 +1,48 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\AxeL\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] CLI Version:  3.4.0
+[debug] Platform:     win32
+[debug] Node Version: v6.10.0
+[debug] Time:         Wed Mar 01 2017 19:19:36 GMT+0200 (Jerusalem Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\AxeL
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\AxeL\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] CLI Version:  3.4.0
+[debug] Platform:     win32
+[debug] Node Version: v6.10.0
+[debug] Time:         Wed Mar 01 2017 19:20:30 GMT+0200 (Jerusalem Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\AxeL
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
