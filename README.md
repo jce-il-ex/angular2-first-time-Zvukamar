@@ -80,5 +80,3 @@ now run:
 ## References
 
 * **Hosting Angular 2 Applications On Firebase** - *Initial work* - [Sebastian Eschweiler](https://medium.com/codingthesmartway-com-blog/hosting-angular-2-applications-on-firebase-f194688c978d#.gt2pkhomp)
-
-Hello
